@@ -42,7 +42,7 @@ header{
 	opacity: 0;
 }
 header:hover{
-	opacity: 0;
+	opacity: 1;
 	background: var(--main-header-background);
 }
 
