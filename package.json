@@ -4,7 +4,7 @@
   "description": "Portfolio",
   "main": "script.js",
   "scripts": {
-    "build": "npm build run"
+    
   },
   "repository": {
     "type": "git",
