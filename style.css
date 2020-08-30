@@ -39,10 +39,10 @@ header{
 	z-index: 5;
 }
 .nav-show{
-	opacity: 0;
+	opacity: 1;
 }
 header:hover{
-	opacity: 1;
+	opacity: 0;
 	background: var(--main-header-background);
 }
 
