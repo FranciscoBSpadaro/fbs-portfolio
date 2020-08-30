@@ -1,6 +1,19 @@
 {
   "name": "portfolio-html",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js"
+  "description": "Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "build": "npm build run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoBSpadaro/fbs-portfolio.git"
+  },
+  "author": "Franciscobspadaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoBSpadaro/fbs-portfolio/issues"
+  },
+  "homepage": "https://github.com/FranciscoBSpadaro/fbs-portfolio#readme"
 }
