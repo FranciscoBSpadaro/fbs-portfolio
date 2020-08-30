@@ -12,7 +12,7 @@
   publish = "/opt/build/repo/project"
 
   # Default build command.
-  command = "npm run build"
+  command = "CI= npm run build"
 
   # Directory with the serverless Lambda functions to deploy to AWS.
   functions = "functions/"
