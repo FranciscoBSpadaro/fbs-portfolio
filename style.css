@@ -34,13 +34,16 @@ header{
 	justify-content: space-around; 
     background: transparent;
 	position: fixed;
+	transition: 0.5s
 	top: 0;
 	z-index: 5;
 }
 .nav-show{
 	opacity: 0;
 }
-
+header:hover{
+	opacity: 1;
+	background: var(--main-header-background);
 }
 
 .logo img{
