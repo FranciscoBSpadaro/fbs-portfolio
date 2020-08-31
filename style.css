@@ -3,7 +3,7 @@
 :root{
 	--main-background: #0b0c0f;
 	--main-fonts-color: #fff;
-	--main-decor-color:#00a9e2;
+	--main-decor-color:#ffff;
         --main-header-background:transparent;
 	--main-font-family: 'Poppins', sans-serif;
 }
@@ -220,7 +220,7 @@ a.nav-link{
 }
 
 .card .work-content:hover{
-    color:#202020;
+    color:#1c9c50;;
 }
 
 .card:hover{
