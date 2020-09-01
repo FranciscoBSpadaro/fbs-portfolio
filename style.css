@@ -227,6 +227,13 @@ a.nav-link{
 	box-shadow: 0 0 1.5rem gray;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*──────────────────
       Contact
 ──────────────────*/
