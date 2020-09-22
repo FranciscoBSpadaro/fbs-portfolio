@@ -210,6 +210,7 @@ a.nav-link{
 	text-align: center;
 	padding: 10px 5px;
 	font-size: 1rem;
+	font-weight: bold;
 	color: #0b0c0f;
 	font-family: var(--main-font-family);
 	cursor: pointer;
