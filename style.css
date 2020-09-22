@@ -400,12 +400,12 @@ hr {
 		z-index: -1;
 	}
 	.hamburger{
-		position:absolute;
-		top: 17px;
-		right: 25%;
-		display: block;
-		cursor:pointer;
-		z-index: 6;
+                  width: 60px;
+                  height: 45px;
+                  position: relative;
+                  outline: none;
+                  float: right;
+                  margin-top: 20px;
 	}	
 	.nav-bar li{
 		opacity:0;
