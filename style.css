@@ -62,7 +62,7 @@ a.nav-link{
 	margin: 2px;
 	padding: 5px 10px;
 	text-decoration: none;
-	color: var(--main-fonts-color);
+	color: #000000
 	font-family: var(--main-font-family);
 	cursor: pointer;
 	text-transform: uppercase;
@@ -73,7 +73,7 @@ a.nav-link{
 }
 
 .nav-link:hover {
-	color: #000000;
+	color: #d9401a;
     background: var(--main-decor-color);
 }
 
