@@ -387,9 +387,9 @@ hr {
 	}	 
 	.nav-bar{
 		position:fixed;
-		top: 60px;
+		top: 65px;
 		right:0;
-		width:40%;
+		width:30%;
 		height: 100vh;
 		display:flex;
 		flex-direction: column;
