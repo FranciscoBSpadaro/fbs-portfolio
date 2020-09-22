@@ -406,7 +406,7 @@ hr {
 		right: 25%;
 		display: block;
 		cursor:pointer;
-		z-index: 5;
+		z-index: 1;
 	}	
 	.nav-bar li{
 		opacity:0;
